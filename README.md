@@ -4,7 +4,7 @@
 
 ## 프로젝트 Summary
 - 인원 : 4명
-- 기간 : 2/15~3/12
+- 기간 : 2021년 2월 15일 ~ 3월 12일
 - **주요 기술** : Spring, Mybatis, Oracle DB
 - **주요 서비스** : 회원가입, 로그인, 프로필 편집, 로그인 위치 조회, 게시물 업로드/조회, 실시간 일대일 채팅
 - [Use Case Diagram](.github/assets/use-case-diagram.jpg)
