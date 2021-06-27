@@ -61,21 +61,21 @@
     # 프로필 페이지  
     
 <img width="960" alt="KakaoTalk_20210627_232428679" src="https://user-images.githubusercontent.com/74581783/123549332-8b33c900-d7a3-11eb-8c13-b93f80c97881.png">
-    # 프로필 정보수정
+    # 프로필 정보수정  
     
 <img width="960" alt="KakaoTalk_20210627_232511294" src="https://user-images.githubusercontent.com/74581783/123549357-a43c7a00-d7a3-11eb-9bbe-cf8c9c47de91.png">
-    # 로그인 위치 확인(구글맵 기간만료)
+    # 로그인 위치 확인(구글맵 기간만료)  
 
 - 게시물 업로드 화면, 게시물 상세 화면 
 <img width="960" alt="KakaoTalk_20210627_234654258" src="https://user-images.githubusercontent.com/74581783/123549405-d4841880-d7a3-11eb-9ed1-b4e28c8439b7.png">
     # 게시물 업로드 화면  
     
 <img width="960" alt="KakaoTalk_20210627_234725420" src="https://user-images.githubusercontent.com/74581783/123549421-e49bf800-d7a3-11eb-89dc-1c7955045646.png">
-    # 게시물 상세 화면
+    # 게시물 상세 화면  
 
 - 일대일 채팅 스탠바이, 채팅창  
 <img width="960" alt="KakaoTalk_20210627_234806533" src="https://user-images.githubusercontent.com/74581783/123549388-c504cf80-d7a3-11eb-9384-14b170443c44.png">
-    # 채팅화면
+    # 채팅화면  
 
 ## 개선된 점, 코드  
 
