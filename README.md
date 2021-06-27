@@ -47,14 +47,12 @@
 
 ## 화면(추가 예정)
 - 로그인 페이지, 회원가입 페이지, 메인 페이지  
-<img width="960" alt="KakaoTalk_20210627_232134994" src="https://user-images.githubusercontent.com/74581783/123549221-faf58400-d7a2-11eb-9a46-f420253710ca.png">
-    → 로그인 페이지  
-    
-<img width="960" alt="KakaoTalk_20210627_234522730" src="https://user-images.githubusercontent.com/74581783/123549241-1c567000-d7a3-11eb-86ae-0f95207435af.png">
-    # 회원가입 페이지  
-    
-<img width="960" alt="KakaoTalk_20210627_234550928" src="https://user-images.githubusercontent.com/74581783/123549266-2b3d2280-d7a3-11eb-8c34-c7ac7ad2819d.png">
-    # 메인 페이지  
+    - 로그인 페이지  
+<img width="960" alt="KakaoTalk_20210627_232134994" src="https://user-images.githubusercontent.com/74581783/123549221-faf58400-d7a2-11eb-9a46-f420253710ca.png">    
+    - 회원가입 페이지  
+<img width="960" alt="KakaoTalk_20210627_234522730" src="https://user-images.githubusercontent.com/74581783/123549241-1c567000-d7a3-11eb-86ae-0f95207435af.png">  
+    - 메인 페이지  
+<img width="960" alt="KakaoTalk_20210627_234550928" src="https://user-images.githubusercontent.com/74581783/123549266-2b3d2280-d7a3-11eb-8c34-c7ac7ad2819d.png">  
     
 - 프로필 페이지  
 <img width="960" alt="KakaoTalk_20210627_234710854" src="https://user-images.githubusercontent.com/74581783/123549307-67708300-d7a3-11eb-9b56-be2b60f56074.png">
