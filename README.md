@@ -1,4 +1,4 @@
-# <img src=".github/assets/logo.jpg" alt="gallerie" height="32px"> Gallerie
+# Gallerie  
 
 ***Gallerie***는 SNS 사이트 *Instagram*을 모티브로 제작되었으며, *Instagram* 웹사이트에 구현되어 있지 않은 기능과 UX와 UI적인 요소를 추가하여 제작했습니다.
 
@@ -10,6 +10,7 @@
 - [Use Case Diagram](.github/assets/use-case-diagram.jpg)
 - [Entity Relationship Diagram(ERD)](.github/assets/entity-relationship-diagram.jpg)
 - [Data Flow Diagram(DFD)](.github/assets/data-flow-diagram.jpg)
+- 내 역할 : 프로필(프로필 수정, 비밀번호 수정, 로그인 위치 찾기) 기능
 
 ## 기술
 - Java 8
