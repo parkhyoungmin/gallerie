@@ -56,9 +56,9 @@
 - 프로필 페이지  
 
 
-<img width="960" alt="KakaoTalk_20210627_234710854" src="https://user-images.githubusercontent.com/74581783/123549307-67708300-d7a3-11eb-9b56-be2b60f56074.png">  
-<img width="960" alt="KakaoTalk_20210627_232428679" src="https://user-images.githubusercontent.com/74581783/123549332-8b33c900-d7a3-11eb-8c13-b93f80c97881.png">  
-<img width="960" alt="KakaoTalk_20210627_232511294" src="https://user-images.githubusercontent.com/74581783/123549357-a43c7a00-d7a3-11eb-9bbe-cf8c9c47de91.png">  
+<img width="960" height="400" alt="KakaoTalk_20210627_234710854" src="https://user-images.githubusercontent.com/74581783/123549307-67708300-d7a3-11eb-9b56-be2b60f56074.png">  
+<img width="960" height="400" alt="KakaoTalk_20210627_232428679" src="https://user-images.githubusercontent.com/74581783/123549332-8b33c900-d7a3-11eb-8c13-b93f80c97881.png">  
+<img width="960" height="400" alt="KakaoTalk_20210627_232511294" src="https://user-images.githubusercontent.com/74581783/123549357-a43c7a00-d7a3-11eb-9bbe-cf8c9c47de91.png">  
 
 - 게시물 업로드 화면, 게시물 상세 화면  
 
